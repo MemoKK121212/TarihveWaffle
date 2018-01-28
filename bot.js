@@ -203,4 +203,4 @@ client.on('message', msg => {
    msg.channel.send(embed); 
   }
 });
-client.login('NDA0NTQ2ODQ3MzE1ODUzMzEy.DUXbPg.efGOB4mq_rAC9ewKI2Wu3OZ-0OA');
+client.login('A');
